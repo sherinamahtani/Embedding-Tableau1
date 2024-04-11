@@ -23,7 +23,7 @@ function logWorkbookInformation() {
     sheets.forEach((element) => {
         index = element.index; console.log 
         (`The Sheet with index [${index}] is : 
-        "${element.name}"`); 
+        "${element.name}"`) ; 
     
     });
 
