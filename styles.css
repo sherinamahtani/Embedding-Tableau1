@@ -1,0 +1,11 @@
+div {
+    height: 50px;
+    width: 1500px;
+    background-color: rgb(191, 186, 186);
+}
+
+span {
+    height: 400px;
+    width: 600px;
+    background-color: rgb(170, 185, 176);
+}
